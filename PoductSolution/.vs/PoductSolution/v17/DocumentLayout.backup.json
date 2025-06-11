@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\pages\\history.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\pages\\history.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|c:\\hari gunwan\\agit\\applicationsupport\\poductsolution\\poductsolution\\model\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7692DB59-4C7A-4D0B-BF3C-C46A0D07D30B}|PoductSolution\\PoductSolution.csproj|solutionrelative:poductsolution\\model\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PoductSolution\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PoductSolution\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T10:32:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History.cshtml.cs",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\History.cshtml.cs",
+              "RelativeDocumentMoniker": "PoductSolution\\Pages\\History.cshtml.cs",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\History.cshtml.cs",
+              "RelativeToolTip": "PoductSolution\\Pages\\History.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:54:06.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\History.cshtml",
+              "RelativeDocumentMoniker": "PoductSolution\\Pages\\History.cshtml",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\History.cshtml",
+              "RelativeToolTip": "PoductSolution\\Pages\\History.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T09:54:06.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "PoductSolution\\appsettings.json",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\appsettings.json",
+              "RelativeToolTip": "PoductSolution\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T09:46:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PoductSolution\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "PoductSolution\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswIIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:29:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PoductSolution\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PoductSolution\\Pages\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T09:29:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Program.cs",
+              "RelativeDocumentMoniker": "PoductSolution\\Program.cs",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Program.cs",
+              "RelativeToolTip": "PoductSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:27:47.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Planning.cs",
+              "DocumentMoniker": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Model\\Planning.cs",
+              "RelativeDocumentMoniker": "PoductSolution\\Model\\Planning.cs",
+              "ToolTip": "C:\\Hari Gunwan\\AGIT\\ApplicationSupport\\PoductSolution\\PoductSolution\\Model\\Planning.cs",
+              "RelativeToolTip": "PoductSolution\\Model\\Planning.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:41:44.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

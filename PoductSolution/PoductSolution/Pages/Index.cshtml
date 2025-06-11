@@ -1,0 +1,117 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h2>Rencana Produksi Mobil</h2>
+
+<!-- Form Input Produksi 7 Hari -->
+<form method="post" class="mb-4">
+    <div class="row">
+        @for (int i = 0; i < 7; i++)
+        {
+            <!-- Input setiap hari: Senin - Minggu -->
+            <div class="col-md-1 col-3 text-center mb-3">
+                <label>@Model.DayNames[i]</label>
+                <input type="number" class="form-control" name="InputProduksi[@i]" value="@Model.InputProduksi[i]" min="0" required /> @*Input tidak bisa kurang dari 0 *@
+            </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Proses</button> @* Submit ke cshtml.cs *@
+</form>
+
+<!-- Jika ada hasil output diperbaiki -->
+@if (Model.OutputProduksi != null)
+{
+    <h4>Hasil Perbaikan Rencana Produksi</h4>
+    <p>Tanggal : @DateTime.Now</p> //Menampilkan tanggal eksekusi
+    <div class="row">
+        <!-- Tabel input awal -->
+        <div class="col-md-6">
+            <h6>Input Awal</h6>
+            <table class="table table-bordered text-center">
+                <thead class="table-secondary">
+                    <tr>
+                        @for (int i = 0; i < 7; i++)
+                        {
+                            <!-- Header hari ambil 3 huruf dari depan -->
+                            <th>@Model.DayNames[i].Substring(0, 3)</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        @for (int i = 0; i < 7; i++)
+                        {
+                            <!-- Nilai input produksi -->
+                            <td>@Model.InputProduksi[i]</td>
+                        }
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Tabel hasil output produksi yang diperbaiki -->
+        <div class="col-md-6">
+            <h6>Output Diperbaiki</h6>
+            <table class="table table-bordered text-center">
+                <thead class="table-success">
+                    <tr>
+                        @for (int i = 0; i < 7; i++)
+                        {
+                            <!-- Header hari -->
+                            <th>@Model.DayNames[i].Substring(0, 3)</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        @for (int i = 0; i < 7; i++)
+                        {
+                            <!-- Nilai hasil produksi yang sudah diratakan -->
+                            <td>@Model.OutputProduksi[i]</td>
+                        }
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+
+<!-- Jika ada pesan error (semua input 0) -->
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <!-- Modal Bootstrap untuk menampilkan pesan error -->
+    <div class="modal fade align-content-center" id="errorModal" tabindex="-1" aria-labelledby="errorModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content border-danger">
+                <div class="modal-header bg-danger text-white">
+                    <h5 class="modal-title" id="errorModalLabel">Gagal Memproses</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @Model.ErrorMessage
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tutup</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<!-- Script untuk memunculkan modal jika terjadi error -->
+@section Scripts {
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            // Periksa apakah ada error message
+            const hasError = '@Model.ErrorMessage' !== '';
+            if (hasError) {
+                // Tampilkan modal error jika perlu
+                const errorModal = new bootstrap.Modal(document.getElementById('errorModal'));
+                errorModal.show();
+            }
+        });
+    </script> 
+}
